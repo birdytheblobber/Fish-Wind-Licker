@@ -15,6 +15,15 @@ I've tried to dumb this down to as sinple as possible for my own sake. It's just
 YEAH OKAY IT'S SCUFFED I KNOW I CAN'T MOVE THE "switch" LEAVE ME ALONE
 	<h2 >How to Build</h2>
 Gotta be honest, I haven't even built this yet, so, erruuuhhh, source: trust me bro
+
 - Print out your parts! Any color works. If you don't like it, paint it. 
-- Follow the wiring diagram! If you aren't a visual learner, then just connect the +(red) wire to one pin (input) of the on/off switch. After you do that, use an extra wire you have laying around somewhere to connect one pin on the switch to the +side of the motor. After that, connect the NOT red wire of your battery connector to the -side of the motor. AFter that, you gots it yessirrr
+
+- Follow the wiring diagram! If you aren't a visual learner, then just connect the +(red) wire to one pin (input) of the on/off switch. After you do that, use an extra wire you have laying around somewhere to connect one pin on the switch to the +side of the motor. After that, connect the NOT red wire of your battery connector to the -side of the motor.
+
+- Stuff the wiring and components into the fish, and then stick the motor of out the hole.
+
+- Put the fan blades onto the motor stick
+
+- You're done! Stay cool.
+
 I mean, I hope you do. Otherwise, that'd be pretty bad news for me..
