@@ -8,3 +8,6 @@ I made this project because summer is coming up, and ya boy is too broke to buy 
 Believe it or not, it's actually pretty simple! (no promises)
 Just direct your attention to the side of the fish, and you'll find an on and off switch. You know what to do.
 Yikes. That was a TERRIBLE attempt at a joke and TWD reference, but uh, just press it to turn it on, and press it to turn it off. Cool.
+	<h2 >Wiring</h2>
+I've tried to dumb this down to as sinple as possible for my own sake. It's just a DC motor powered by a 9v battery; connected to an on/off switch.
+<img width="240" height="320" alt="image3" src="https://github.com/user-attachments/assets/0df90514-e523-444a-834e-cff11e76e415" />
