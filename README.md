@@ -6,5 +6,4 @@ Definitely a unique project, if you were wondering! I will defend his honor to t
 	<h2 >**How to Use It**</h2>
 Believe it or not, it's actually pretty simple! (no promises)
 Just direct your attention to the side of the fish, and you'll find an on and off switch. You know what to do.
-
 Yikes. That was a TERRIBLE attempt at a joke and TWD reference, but uh, just press it to turn it on, and press it to turn it off. Cool.
