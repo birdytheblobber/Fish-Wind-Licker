@@ -9,5 +9,9 @@ Gotta be honest, I haven't even built this yet, so, erruuuhhh, source: trust me 
 
 - Glue the fan blades to the motor shaft that's poking out of the hole.
 
+- Glue your switch on the side hole of the fish near the fin!
+
+- Press the switch.
+
 YAAAYYYY! YOU DID IT
 Okay, stay cool, pun intended..you got that..please work..
