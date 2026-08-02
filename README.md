@@ -3,7 +3,7 @@
 	<h2>Project Description</h2>
 I really like fishes, what can I say? This project is a bit inspired off of my sports duffel I made from a stuffed fish... if you were wondering, I named him Fih Finnigan. Spooky.. whimsy..weird, whatever you'd call it. :/
 Definitely a unique project, if you were wondering! I will defend his honor to the death. There is none quite like it (no, seriously), and also, he is built with love and admiration. Yeah, beat that.  I'm a student at an arts school, so that's what I usually do. This project is supposed to be a big jumble of some of my hobbies and interests. Marine life, hardware (I just can't write decent code for the life of me), design.. all that jazz (chicago??) 
-I made this project because summer is coming up, and ya boy is too broke to buy anything themselves so they gots to make it instead, struggles amiright? haha...hah. **cough** I chose a portable design because eventually I'd like to give it to my mom to bring overseas to Vietnam this summer so she can use it... AND BRAG TO MY RELATIVES ON HOW I MADE IT! /joking
+I made this project because summer is coming up, and ya boy is too broke to buy anything themselves so they gots to make it instead, struggles amiright? haha...hah. **cough** I chose a portable design because eventually I'd like to give it to my mom to bring overseas to Vietnam this summer so she can use it... AND BRAG TO MY RELATIVES ON HOW I MADE IT! /joking    maybe joke, but yes, this will be a super easy, fun project
 	<h2 >How to Use It</h2>
 Believe it or not, it's actually pretty simple! (no promises)
 Just direct your attention to the side of the fish, and you'll find an on and off switch. You know what to do.
